@@ -35,7 +35,7 @@ my hawali's birthday gift.
     <p>Anw, if u know who am I, aku harap kamu gaakan cut off aku jadi temen kamu ya zan. Maaf kalo aku terlalu mengagumi kamu, tapi kamu gak perlu takut, aku bukan sasaeng kok. </p>
     <p>With love, - hrdawz</p>
     
-    <!-- Tambahan kata-kata baru di bawah -->
+    
     <p class="blue-text">
         Aku ngebuat ini first time, aku juga gak ngerti coding itu gimana but i swear this is so hard. Mungkin kamu udah sering dapet kaya gini atau udah biasa, tapi i want you to know ini aku belajar nya aja sama chatGPT wkwk. Eh auzan, semoga hari mu selalu baik ya, semoga Bogor memeluk mu erat, semoga kita bisa bertemu secepatnya. Aku harap, hanya kamu yang baca tulisan ini yaa, itu juga udah syukur sih. Takutnya kan kamu gak buka ini karena kamu nyangka nya aku hacker yang suka kirim message-message gak jelas gitu kan? Eh auzan, kamu udah 20 tahun ya? Ah, kamu hebat banget sih bisa bertahan selama itu tinggal dibumi ini. Selamat panjang umur ya auzan hawali, yang suka berkelana dialam. Selamat menjadi orang yang paling sering aku banggakan di 2025 ini. Selamat menjalani aktivitas yang semoga aja gak ngebuat kamu capek. Semangat selalu auzan. Semangat. Mungkin kata-katanya kelihatan template ya? Tapi aku pengen banget kamu tahu, walalupun banyak yang bilang kamu redflag atau apalah itu yang gak bagus, aku tetep suka sama apapun tentang kamu. Tetep bersinar ya auzan, wherever you go, whenever you feel not enough with yourself.
     </p>
